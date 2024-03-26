@@ -1,4 +1,5 @@
 About Me
+
 Hey! 👋 I'm yael palti, studying Computer Science at Hebrew University and Architecture at Bezalel Academy in Jerusalem. I'm passionate about art, travel, and coding.
 
 Highlights
